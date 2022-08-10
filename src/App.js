@@ -27,7 +27,7 @@ const App = () => {
   }
   return (
     <View style={styles.wrapper}>
-      <Text>App</Text>
+      <Text>congratulations you device Support NFC</Text>
     </View>
   );
 };
