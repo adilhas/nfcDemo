@@ -66,6 +66,7 @@ const App = () => {
       </View>
     );
   }
+
   return (
     <View style={styles.container}>
       <Text>Welcome to the HCE NFC Tag example.</Text>
